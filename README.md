@@ -8,6 +8,8 @@
 
 ![](https://komarev.com/ghpvc/?username=webby1015)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webby1015&" alt="webby1015" /></p>
+
 <!--
 **Schweinepriester/Schweinepriester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
