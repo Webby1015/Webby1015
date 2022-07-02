@@ -6,6 +6,8 @@
 
 
 
+<a href="https://in.linkedin.com/in/abhishek-vedant-9a467920a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="30" width="40" /></a>
+
 ![](https://komarev.com/ghpvc/?username=webby1015)
 
 
