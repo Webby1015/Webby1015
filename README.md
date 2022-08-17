@@ -2,7 +2,7 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 [Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
-<p><a href="https://linktr.ee/webby0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="30" width="40" /></a></p>
+<p><a href="https://linktr.ee/webby0_0" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="30" width="40" /></a></p>
 
 
 
