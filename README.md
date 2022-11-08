@@ -1,5 +1,5 @@
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-<p style="text-align:right"> Hello there!</p>
+##Hello There!
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
 
 
 
