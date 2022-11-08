@@ -1,7 +1,5 @@
-<h1>Hello there</h1>
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
-
-
+<h1>Hello there!</h1>
 
 
 <div align="center">
