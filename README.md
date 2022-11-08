@@ -1,5 +1,4 @@
 <h1>Hello there</h1>
-<br>
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
 
 
