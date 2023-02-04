@@ -17,6 +17,7 @@
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/html-2752158-2284975.png?f=avif&w=256" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 <span>
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://img.icons8.com/stickers/256/css3.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
-
+<span>
+<a href="https://www.python.org/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 
 
