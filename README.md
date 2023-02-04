@@ -20,5 +20,5 @@
 <span>
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 <span>
-<a href="https://www.python.org/" target="_blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
+<a href="https://www.python.org/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 
