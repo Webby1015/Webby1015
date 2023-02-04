@@ -13,6 +13,8 @@
 <h2>Technologies</h2>
 <span>
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
+<span>
+<a href="https://www.python.org/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/html-2752158-2284975.png?f=avif&w=256" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 
 
 
