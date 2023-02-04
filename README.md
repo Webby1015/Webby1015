@@ -18,6 +18,6 @@
 <span>
 <a href="https://www.python.org/" target="_blank"><img align="center" src="https://img.icons8.com/stickers/256/css3.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 <span>
-<a href="https://www.python.org/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
+<a href="https://www.python.org/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-levis-logo-transparent-23.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 
 
