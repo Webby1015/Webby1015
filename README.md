@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/abhishek.vedant/" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
   
 <span>
-<a href="https://in.linkedin.com/in/abhishek-vedant-9a467920a" target="_blank"><img align="center" src="" alt="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="40" width="40" /></a></span>
+<a href="https://in.linkedin.com/in/abhishek-vedant-9a467920a" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png" alt="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="40" width="40" /></a></span>
 </p>
 
 
