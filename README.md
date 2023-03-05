@@ -23,4 +23,6 @@
 <a href="https://cplusplus.com/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 <span>
 <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=avif&w=256" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
+<span>
+<a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/256/tailwindcss.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 
