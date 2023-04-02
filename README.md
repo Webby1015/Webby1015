@@ -27,4 +27,4 @@
 <a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/256/tailwindcss.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
 <span>
 <a href="https://reactjs.org/" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
-
+<a href="https://www.java.com/en/" target="_blank"><img align="center" src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
