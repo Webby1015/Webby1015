@@ -10,15 +10,4 @@
 <span>
 <a href="https://in.linkedin.com/in/abhishek-vedant-9a467920a" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png" alt="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="40" width="40" /></a></span>
 </p>
-<h2>Technologies</h2>
-<span>
-<a href="https://www.python.org/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" alt="https://in.linkedin.com/in/abhishek-vedant-9a467920a" height="40" width="40" /></a></span>
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://webby1015.github.io/Snake-Game/">
-  </iframe>
-</div>
 
