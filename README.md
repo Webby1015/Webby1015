@@ -12,7 +12,6 @@
 </p>
 <h2>Projects</h2></hr>
 <ul>
-<a herf="https://superb-cuchufli-56c184.netlify.app/" target="_blank">Movie Boooking</a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+<li><a href="https://superb-cuchufli-56c184.netlify.app/" target="_blank">Movie Boooking</a></li>
 </ul>
 
