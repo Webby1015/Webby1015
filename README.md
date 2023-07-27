@@ -12,7 +12,7 @@
 </p>
 <h2>Projects</h2></hr>
 <ul>
- <li> <a herf="https://superb-cuchufli-56c184.netlify.app/">Movie Boooking</a></li>
+<a herf="https://superb-cuchufli-56c184.netlify.app/" target="_blank">Movie Boooking</a>
 
 </ul>
 
