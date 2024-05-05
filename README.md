@@ -12,12 +12,12 @@
 </p>
 <!-- <h2>Feel Free to Go Through my Repos</h2></hr> -->
 <h2>Projects</h2></hr>
-<ul>
+<!-- <ul>
 <li><a href="https://superb-cuchufli-56c184.netlify.app/" target="_blank">Movie Boooking</a></li>
 <li><a href="https://webby1015.github.io/Snake-Game/" target="_blank">Snake Game</a></li>
 <li><a href="https://webby1015.github.io/RandomColorPalette//" target="_blank">Random Color Palette</a></li>
 <li><a href="https://webby1015.github.io/keeps/" target="_blank">Keeps (Memo) </a></li>
 <li><a href="https://webby1015.github.io/Spotify-Clone-or-music-player/" target="_blank">Spotify</a></li>
 
-</ul>
+</ul> -->
 
