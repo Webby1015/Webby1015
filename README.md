@@ -11,7 +11,7 @@
 <a href="https://in.linkedin.com/in/abhishek-vedant-9a467920a" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png" alt="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" height="40" width="40" /></a></span>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=webby1015&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=webby1015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=webby1015&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 ![](https://nirzak-streak-stats.vercel.app/?user=webby1015&theme=dark&hide_border=false)<br/>
 
 ---
