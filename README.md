@@ -1,32 +1,4 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <pre>
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-        </pre>
-      </td>
-      <td align="center">
-        <img src="/MeagerHardtofindAlbertosaurus-size_restricted.gif" alt="Welcome Banner" />
-      </td>
-      <td align="center">
-        <pre>
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-·  ·  ·  ·  ·
-        </pre>
-      </td>
-    </tr>
-  </table>
-
   <h1>Hello there! 👋</h1>
 </div>
 
